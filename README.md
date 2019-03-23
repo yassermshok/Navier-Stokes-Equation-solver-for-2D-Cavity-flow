@@ -4,11 +4,11 @@ The solution is visualized by writing an ASCII .vtk file which can be opened usi
 
 The Solution is based on Prof. Lorena Barba open CFD course lectures
 
-![](PDEs.PNG)
+![](Images/PDEs.PNG)
 
-![](D-momentum.PNG)
+![](Images/D-momentum.PNG)
 
-![](D-poisson.PNG)
+![](Images/D-poisson.PNG)
 
 The Solution is calculated by repeating the following steps for every time step:
 
@@ -28,4 +28,4 @@ For more details refer to prof. Lorena lectures 11 and 12 at the link below
 https://www.youtube.com/playlist?list=PL30F4C5ABCE62CB61
 
 
-![](NSE-2D-Cavity-VelocityVectors.png)
+![](Images/NSE-2D-Cavity-VelocityVectors.png)
