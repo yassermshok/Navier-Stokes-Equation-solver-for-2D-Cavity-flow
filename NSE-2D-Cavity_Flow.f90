@@ -173,7 +173,7 @@ subroutine write_vtk
      do i = 0, nx
         do j = 0, ny
              
-          write (31,601) i*dx, j*dy, float(k)
+          write (31,601) i*dx, j*dy, float(k/100)
           
         end do
      end do 
